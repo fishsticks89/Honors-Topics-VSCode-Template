@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "../deps/junit-platform-console-standalone-1.9.3",
+    ]
+}
